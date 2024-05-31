@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Praveen Babu Avva</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./styles/main.css">
+    </head>
+    <body>
+        <div id="container--main">
+
+            <section id="wrapper--hero" class="section--page">
+                <img id="profile-pic" src="./assets/images/profile_pic.JPG">
+
+                <div>
+                    <h1 id="user-name">Praveen Babu Avva</h1>
+                    <p id="email">👉 avvapraveenbabu@gmail.com</p>
+                    <p id="contact">👉 +918919786055</p>
+                </div>  
+            </section>
+
+            <section class="section--page">
+        
+                <div id="socials--list">
+                    <a href="https://www.linkedin.com/in/praveen-babu-avva-/" target="_blank">Linkedin</a>
+                    <a href="https://github.com/PraveenBabuAvva" target="_blank">Github</a>
+                    <a href="./assets/PRAVEEN RESUME.docx" target="_blank">Download Resume</a>
+                </div>
+            </section>
+
+            <section class="section--page">
+                <h2>Skills & Qualifications</h2>
+                <ul id="qualifications--list">
+                    <li>✔️ Embedded systems virtual internship offered by Edu Skills Foundation.</li>
+                    <li>✔️ Everyday Excel specialization (University of Colorado Boulder)</li>
+                    <li>✔️ Effective Problem solving and Decision Making (University of California) </li>
+                    <li>✔️ Introduction to Computers and Office Productivity software.</li>
+                </ul>
+            </section>
+
+            <section class="section--page">
+                <h2>Tech stack</h2>
+
+                <div id="wrapper--techstack__items">
+                    <div class="card--techstack"><span>programming in c</span></div>
+                    <div class="card--techstack"><span>ΗFSS Software (Basics)</span></div>
+                    <div class="card--techstack"><span>Knowledge on Micro-controllers and Microprocessors.</span></div>
+                </div>
+            </section>
+
+            <section id="work-history-wrapper" class="section--page">
+                <h2>Soft Skills</h2>
+
+                <div class="line-break"></div>
+                <div class="card--work-history">
+                    <strong>🚧 Excellent verbal and written communication skills </strong>
+                    </ul>
+                </div>
+
+                <div class="line-break"></div>
+
+                <div class="card--work-history">
+                    <strong>🚧 Presentation skills </strong>
+                    </ul>
+                </div>
+
+                <div class="line-break"></div>
+
+                <div class="card--work-history">
+                    <strong>🚧 Problem solving skills</strong>
+                    </ul>
+                </div>
+
+            </section>
+
+       
+        </div>
+
+    </body>
+</html>
